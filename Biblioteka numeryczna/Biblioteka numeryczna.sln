@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Biblioteka numeryczna", "Biblioteka numeryczna\Biblioteka numeryczna.vcxproj", "{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}.Debug|x64.ActiveCfg = Debug|x64
+		{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}.Debug|x64.Build.0 = Debug|x64
+		{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}.Debug|x86.Build.0 = Debug|Win32
+		{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}.Release|x64.ActiveCfg = Release|x64
+		{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}.Release|x64.Build.0 = Release|x64
+		{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}.Release|x86.ActiveCfg = Release|Win32
+		{CD65836E-51D2-4F67-9DCC-9CBD61EE0BD4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F690163-7CAF-4C43-88FC-DF43997B2E07}
+	EndGlobalSection
+EndGlobal

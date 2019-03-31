@@ -1,0 +1,9 @@
+﻿  Punkt.cpp
+  Źródło.cpp
+Źródło.cpp(137): warning C4018: '<': signed/unsigned mismatch
+Źródło.cpp(140): warning C4018: '<': signed/unsigned mismatch
+Źródło.cpp(155): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  All 228 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Biblioteka numeryczna.vcxproj -> C:\Users\adrja\Documents\Visual Studio 2017\Projects\Biblioteka numeryczna\Release\Biblioteka numeryczna.exe

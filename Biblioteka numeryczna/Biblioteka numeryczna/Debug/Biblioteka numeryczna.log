@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\adrja\documents\visual studio 2017\projects\biblioteka numeryczna\biblioteka numeryczna\źródło.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\adrja\documents\visual studio 2017\projects\biblioteka numeryczna\biblioteka numeryczna\źródło.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\adrja\documents\visual studio 2017\projects\biblioteka numeryczna\biblioteka numeryczna\źródło.cpp(155): warning C4018: '<': signed/unsigned mismatch
+  Biblioteka numeryczna.vcxproj -> C:\Users\adrja\Documents\Visual Studio 2017\Projects\Biblioteka numeryczna\Debug\Biblioteka numeryczna.exe
